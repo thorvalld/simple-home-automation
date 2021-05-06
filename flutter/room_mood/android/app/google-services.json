@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830698795546",
+    "firebase_url": "https://roomood-312112-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "roomood-312112",
+    "storage_bucket": "roomood-312112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830698795546:android:0c5566de4633723c5817a3",
+        "android_client_info": {
+          "package_name": "com.esprit.roomood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830698795546-cc6jd9rlein6js765tqutee9b2lk9r51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJv4dWYJXiF8mxtawsENYPrTiCpuUouQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830698795546-cc6jd9rlein6js765tqutee9b2lk9r51.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830698795546-ok4m1lfac55n6ph48sopahuetq6vmr8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roomood.company"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
